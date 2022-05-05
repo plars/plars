@@ -14,7 +14,6 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          template: repository
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
