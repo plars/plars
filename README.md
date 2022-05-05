@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ---
 
 ## &#x1f4c8; My GitHub Stats
-[<img align="center" alt="github stats" src="https://gist.githubusercontent.com/plars/69f9b3039875b13533ecdfb8afaaad18/raw/327f62f4102f83865c5d4f171605afda994d00c6/general.svg">](#)
+[<img align="center" alt="github stats" src="https://gist.githubusercontent.com/plars/69f9b3039875b13533ecdfb8afaaad18/raw/general.svg">](#)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plars&" alt="github streak" /></p>
