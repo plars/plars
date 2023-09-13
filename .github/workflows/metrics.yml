@@ -17,6 +17,7 @@ jobs:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
+          config_timezone: US/Central
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
