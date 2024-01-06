@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ## &#x1f4c8; My GitHub Stats
 [<img align="center" alt="github stats" src="https://gist.githubusercontent.com/plars/69f9b3039875b13533ecdfb8afaaad18/raw/general.svg">](#)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plars&" alt="github streak" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=plars&theme=dark&hide_border=true)](https://git.io/streak-stats)
